@@ -1,4 +1,4 @@
-## 你好 👋, 我是Peter韩！  
+# 你好 👋, 我是Peter韩！  
   
 
 <a href="https://github.com/Hanbq01" target="_blank">
@@ -10,6 +10,8 @@
 
 ### Glad to see you here!  
 小小的初学者一枚。。。  
+
+**希望可以练好技术，毕业挣大钱**
   
 
 <br/>  
